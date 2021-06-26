@@ -1,22 +1,37 @@
 instructions for deploying this site to the server
 ------------------------------------------------------------
 Why Learn to Deploy a Website?
-Deploying—or pushing new code to a server—is an integral part of a developer’s daily workflow. Knowing the relationship between your computer (including your local development environment) and the Internet, as well as how to communicate between the two, is essential for every developer.
+Deploying—or pushing new code to a server—is an integral part of a developer’s daily workflow. Knowing the relationship between your computer
+ (including your local development environment) and the Internet, as well as how to communicate between the two, is essential for every developer.
 
 Take-Away Skills:
-In Deploy a Website, you’ll learn how to take website content and publish it to the Internet. You’ll learn how to use Jekyll, a handy tool used frequently by developers to get new static sites quickly up and running.
+In Deploy a Website, you’ll learn how to take website content and publish it to the Internet. You’ll learn how to use Jekyll, a handy tool used
+ frequently by developers to get new static sites quickly up and running.
 
-You’ll also use the GitHub workflow to host your site using the GitHub Pages service. Finally, you’ll use Amazon Web Services (AWS), an industry-standard tool for developers, to purchase a custom domain name and assign it to your personal website.
+You’ll also use the GitHub workflow to host your site using the GitHub Pages service. Finally, you’ll use Amazon Web Services (AWS), 
+an industry-standard tool for developers, to purchase a custom domain name and assign it to your personal website.
 
 What are the options?
-Publishing a website is a complex topic because there are many ways to go about it. This article doesn't attempt to document all the possible methods. Instead, it explains the advantages and disadvantages of three approaches that are practical for beginners. Then it steps through one method that can work right away for many readers.
+Publishing a website is a complex topic because there are many ways to go about it. This article doesn't attempt to document all
+ the possible methods. Instead, it explains the advantages and disadvantages of three approaches that are practical for beginners. 
+ Then it steps through one method that can work right away for many readers.
 
 Getting hosting and a domain name
 To have more control over content and website appearance, most people choose to buy web hosting and a domain name:
 
-Web hosting is rented file space on a hosting company's web server. You put website files on the web server. The web server provides website content to website visitors.
-A domain name is the unique address where people find your website, such as http://www.mozilla.org or http://www.bbc.co.uk. You can rent your domain name for as many years as you want from a domain registrar.
+Web hosting is rented file space on a hosting company's web server. You put website files on the web server. The web server
+ provides website content to website visitors.
+A domain name is the unique address where people find your website, such as http://www.mozilla.org or http://www.bbc.co.uk. 
+You can rent your domain name for as many years as you want from a domain registrar.
 Many professional websites go online this way.
 
-In addition, you will need a File Transfer Protocol (FTP) program (see How much does it cost: software for more details) to actually transfer the website files over to the server. FTP  programs vary widely, but generally, you have to connect to your web server using details provided by your hosting company (typically username, password, hostname). Then the program shows you your local files and the web server's files in two windows, and provides a way for you to transfer files back and forth.
+In addition, you will need a File Transfer Protocol (FTP) program (see How much does it cost: software for more details) to actually
+ transfer the website files over to the server. FTP  programs vary widely, but generally, you have to connect to your web server using
+  details provided by your hosting company (typically username, password, hostname). 
+Then the program shows you your local files and the web server's files in two windows, and provides a way for you to transfer files back and forth.
+--------------------------------------------------------------------------------------------------------------------------------
+installations on IIS 
+---------------------------------------------------
+content goes here
+
 
