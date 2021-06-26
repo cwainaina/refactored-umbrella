@@ -20,5 +20,7 @@ Many professional websites go online this way.
 
 In addition, you will need a File Transfer Protocol (FTP) program (see How much does it cost: software for more details) to actually transfer the website files over to the server. FTP  programs vary widely, but generally, you have to connect to your web server using details provided by your hosting company (typically username, password, hostname). Then the program shows you your local files and the web server's files in two windows, and provides a way for you to transfer files back and forth.
 
-.........................
+
 troubleshooting
+.........................
+
