@@ -1,4 +1,4 @@
-instructions for deploying this site
+instructions for deploying this site to the server
 ------------------------------------------------------------
 Why Learn to Deploy a Website?
 Deploying—or pushing new code to a server—is an integral part of a developer’s daily workflow. Knowing the relationship between your computer (including your local development environment) and the Internet, as well as how to communicate between the two, is essential for every developer.
